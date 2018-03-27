@@ -1,0 +1,6 @@
+framework module LLGCDTimer {
+  umbrella header "LLGCDTimer-umbrella.h"
+
+  export *
+  module * { export * }
+}

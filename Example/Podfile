@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'LLGCDTimer_Example' do
+  pod 'LLGCDTimer', :path => '../'
+
+  target 'LLGCDTimer_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
