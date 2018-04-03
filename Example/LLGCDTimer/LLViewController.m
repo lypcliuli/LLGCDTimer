@@ -16,7 +16,7 @@
 @implementation LLViewController
 
 - (void)touchesBegan:(NSSet<UITouch *> *)touches withEvent:(UIEvent *)event {
-    // 使用方法
+    // 使用方法 修改一下主干
     [LLGCDTimer llGCDTimer:10 repeat:YES interval:5 progress:^(NSInteger current) {
         NSLog(@"%zd", current);
     } endAction:^(NSInteger current) {
