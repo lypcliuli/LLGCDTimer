@@ -23,7 +23,7 @@ pod 'LLGCDTimer'
 ## Author
 
 lypcliuli, lypcliuli@163.com
-## 刘莉LYPC
+## 刘莉Raksha
 ## License
 
 LLGCDTimer is available under the MIT license. See the LICENSE file for more info.
